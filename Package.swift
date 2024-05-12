@@ -28,7 +28,7 @@ let package = Package(
         ),
         .binaryTarget(
                     name: "DragonMedicalSpeechKit",
-                    path: "Sources/SDK/DragonMedicalSpeechKit.zip"
+                    path: "Sources/SDK/DragonMedicalSpeechKit.xcframework"
                 )
     ]
 )
